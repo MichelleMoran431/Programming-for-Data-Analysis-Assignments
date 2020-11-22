@@ -61,6 +61,8 @@ from numpy.random import default_rng
 
 *2. Binomial Distribution : 
 
+Looked at the difference between the normal and binomial distributions , did a comparison using a distplot using the same size no.
+
 Code#9  The example of flipping the a coin 10 times. Using the parameters (n)no. of trials, (p) probability of occurence = 10, SIze =0.5   and the default_rng.binomial syntax. Output random values of 10. The result is the number of heads per experiment ( 10) of 10 flips of the coin. 
 
 
